@@ -2,6 +2,7 @@ package test;
 
 import java.util.Arrays;
 
+/** Print out all permutations given an array with arbitrary dimensions. */
 public class Permutation {
 	public static void main(String[] args) {
 		String[] a = { "a", "b", "c" };
