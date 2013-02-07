@@ -1,6 +1,5 @@
-
 Dynamic Charts
 ======
 
 
-[Click here](http://example.com/) to link to the Dynamic Charts home page.
+[Click here](http://pspiro.github.com/Dynamic-Charts) to link to the Dynamic Charts home page.
